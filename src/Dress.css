@@ -1,0 +1,19 @@
+.main{
+    background-color:whitesmoke;
+     height: 80vh; 
+     font-family: cursive;
+     width:30% ;
+     opacity: 0.5;
+
+ }
+ .top{
+        padding-top: 30px;
+        padding-bottom: 30px;
+        background-image: url("https://images.pexels.com/photos/3119180/pexels-photo-3119180.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+      
+ }
+ 
+ 
